@@ -1,0 +1,1 @@
+const e={key:"v-1dc56663",path:"/reference/trigonometry/",title:"Trigonometry",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"reference/trigonometry/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-4e2b2cfe",path:"/test/responsive-grid.html",title:"Responsive Grid",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Three-Columns",slug:"three-columns",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"test/responsive-grid.md"};export{e as data};
