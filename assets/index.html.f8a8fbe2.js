@@ -1,1 +1,0 @@
-const e={key:"v-49a141f8",path:"/reference/algebra/",title:"Algebra",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null,contributors:[]},filePathRelative:"reference/algebra/README.md"};export{e as data};

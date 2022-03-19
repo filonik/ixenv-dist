@@ -1,0 +1,1 @@
+const e={key:"v-49a141f8",path:"/reference/algebra/",title:"Algebra",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1647698462e3,contributors:[{name:"filonik",email:"filonik@users.noreply.github.com",commits:1}]},filePathRelative:"reference/algebra/README.md"};export{e as data};
