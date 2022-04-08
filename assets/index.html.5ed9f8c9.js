@@ -1,1 +1,0 @@
-import{o as e,c as t,p as o,C as r}from"./app.ccea29af.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},c={id:"trigonometry",tabindex:"-1"},n=o("a",{class:"header-anchor",href:"#trigonometry","aria-hidden":"true"},"#",-1),_=r(" Trigonometry"),i=[n,_];function d(h,m){return e(),t("h1",c,i)}var p=a(s,[["render",d]]);export{p as default};
