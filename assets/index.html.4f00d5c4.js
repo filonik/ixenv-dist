@@ -1,0 +1,1 @@
+import{o as e,c as s,p as t,C as r}from"./app.ccea29af.js";import{_ as o}from"./plugin-vue_export-helper.21dcd24c.js";const a={},c={id:"number-systems",tabindex:"-1"},n=t("a",{class:"header-anchor",href:"#number-systems","aria-hidden":"true"},"#",-1),_=r(" Number Systems"),d=[n,_];function i(m,h){return e(),s("h1",c,d)}var l=o(a,[["render",i]]);export{l as default};
