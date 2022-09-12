@@ -1,0 +1,1 @@
+const t=(s,n)=>s&&n,e=(s,n)=>s==n,o=(s,n)=>s!=n,a=(s,n)=>s+n,c=(s,n)=>s-n,d=(s,n)=>s*n,p=(s,n)=>s/n,m={append:t,empty:!0},u={append:a,empty:0},y={append:d,empty:1};export{u as A,y as M,m as a,p as d,e,d as m,o as n,c as s};

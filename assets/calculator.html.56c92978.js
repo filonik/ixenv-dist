@@ -1,0 +1,1 @@
+const t={key:"v-4709387c",path:"/playground/calculator.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1660777648e3,contributors:[{name:"filonik",email:"filonik@users.noreply.github.com",commits:1}]},filePathRelative:"playground/calculator.md"};export{t as data};
