@@ -1,1 +1,0 @@
-import{_ as c,o,c as t,e as a,f as l}from"./app.a0d4b9da.js";const r={},s={class:"my-4 lg:mx-16"};function _(n,m){const e=l("Calculator");return o(),t("div",s,[a(e)])}var u=c(r,[["render",_],["__file","calculator.html.vue"]]);export{u as default};
