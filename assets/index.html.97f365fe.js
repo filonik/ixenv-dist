@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,b as r,C as o}from"./app.73612864.js";const s={},c={id:"algebra",tabindex:"-1"},_=r("a",{class:"header-anchor",href:"#algebra","aria-hidden":"true"},"#",-1),n=o(" Algebra"),d=[_,n];function i(h,l){return a(),t("h1",c,d)}var x=e(s,[["render",i],["__file","index.html.vue"]]);export{x as default};
